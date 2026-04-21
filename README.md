@@ -115,6 +115,10 @@ PyTorch,
 Pandas,
 scikit-learn,
 
+## Training Loss decreasing over Epochs
+<img width="570" height="487" alt="image" src="https://github.com/user-attachments/assets/900384ab-e635-4059-bc84-787c8de57638" />
+
+
 ---
 
 ## 🙋 Author
