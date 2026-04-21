@@ -28,6 +28,11 @@ fashion-mnist-ann/
 ├── Requirements.txt       # Python dependencies
 └── README.md
 ```
+## 4x4 grid for the image(Fmnist dataset in image)
+<img width="629" height="520" alt="Screenshot 2026-04-21 200123" src="https://github.com/user-attachments/assets/2d2257d4-0336-496a-867b-164726d93b60" />
+
+
+
 
 ---
 
